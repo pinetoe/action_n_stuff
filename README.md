@@ -18,6 +18,7 @@ Action & Stuff menghadirkan animasi halus dan dinamis ke dalam lingkungan Minecr
 
 🌐 Untuk info lebih lengkap, kunjungi halaman resmi di Marketplace:
 👉 Action & Stuff oleh Oreville Studios (Versi 1.4)
+  https://www.minecraft.net/en-us/marketplace/pdp/oreville-studios/actions--stuff-1.4/61c7a786-d7ad-49e0-a710-817121cd9795
 
 💬 Kontribusi, pertanyaan, atau saran? Silakan buka issue atau pull request, ya! 🙌
 ------------------------------------------------------------------------------------------------------------------------------
@@ -38,6 +39,6 @@ Action & Stuff brings smooth and dynamic animations into the Minecraft environme
 
 🌐 For more details, visit the official Marketplace page:
 👉 Action & Stuff by Oreville Studios (Version 1.4)
-
+  https://www.minecraft.net/en-us/marketplace/pdp/oreville-studios/actions--stuff-1.4/61c7a786-d7ad-49e0-a710-817121cd9795
 💬 Got contributions, questions, or ideas? Feel free to open an issue or pull request! 🙌
 ==============================================================================================================================
